@@ -19,23 +19,23 @@ Contest Metadata
 ----------------
 
 1. Troyangles (author unknown)
-  - Time limit: 1 second.
+  - Time limit: 1 second
   - Batching: 3 2 1 1 1 2 1 2 2 3 3 4
 2. King Gruff (Jacob Plachta)
-  - Time limit: 2 seconds.
+  - Time limit: 2 seconds
   - Batching: 2 1 1 1 1 5 1 3 7 3
 3. Werewolf (author unknown)
-  - Time limit: 1 second.
+  - Time limit: 1 second
   - Batching: 5 2 1 1 2 3 5 6
 4. Where's That Fuel? (Jacob Plachta)
-  - Time limit: 1 second.
+  - Time limit: 1 second
   - Batching: 5 3 4 13
 5. Early Exam Evacuation (Jacob Plachta)
-  - Time limit: 2 seconds.
+  - Time limit: 2 seconds
   - Batching: 3 10 3 9
 6. Gates (Jacob Plachta)
-  - Time limit: 3 seconds.
-  - Batching: 24 cases worth 1 point each + extreme floating point cases worth 1 point.
+  - Time limit: 3 seconds
+  - Batching: 1\*25
 
 2014 Stage 2 Committee
 ----------------------
