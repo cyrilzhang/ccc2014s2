@@ -11,7 +11,7 @@ Finally, if you have any questions, you can contact Cyril Zhang at <cyril.zhang@
 Contents
 --------
 
-1. Problem statements (not yet)
+1. Problem statements
 2. Test data
 3. Reference solutions
 
